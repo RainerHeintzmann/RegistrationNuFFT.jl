@@ -1,0 +1,4 @@
+name = "RegistrationNuFFT"
+uuid = "b244e61b-8d28-4ad1-8e89-d095be724ae9"
+authors = ["RainerHeintzmann <heintzmann@gmail.com>"]
+version = "0.1.0"
