@@ -1,5 +1,6 @@
 module RegistrationNuFFT
-
-greet() = print("Hello World!")
-
+using FourierTools
+include("loss_functions.jl")
+include("transforms.jl")
+include("registrations.jl")
 end # module
